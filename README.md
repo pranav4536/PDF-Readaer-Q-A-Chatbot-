@@ -1,8 +1,9 @@
-# Streamlit Cohere PDF QA Bot
+#Sample Set QA Bot
 
 This project is a **Streamlit application** that allows users to upload PDF documents, extract their text, and ask questions about the content. It uses **Cohere's language model** to generate embeddings for document chunks and stores them in a **FAISS** index for efficient retrieval. Users can query the document, and relevant sections are returned as answers.
 
-![Streamlit App Preview]![image](https://github.com/user-attachments/assets/b89591eb-6f8d-4cc0-8b8c-f0fbddddfa10)
+![Streamlit App Preview]! ![image](https://github.com/user-attachments/assets/2426e5df-f928-4513-b643-33faa6d99035)
+
 
 
 ## Features
